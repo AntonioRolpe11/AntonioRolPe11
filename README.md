@@ -37,7 +37,8 @@
 
 ![React](https://img.shields.io/badge/react-%2302569B.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-%339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)[
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 #### 📚 Libraries
 
